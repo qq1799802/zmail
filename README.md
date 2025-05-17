@@ -1,4 +1,4 @@
-# <div align="center">🚀 ZMAIL - 24小时临时邮箱服务</div>
+# <div align="center">🚀 老楚 - 24小时临时邮箱服务</div>
 
 <div align="center">
   <p>
